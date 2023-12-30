@@ -1,5 +1,5 @@
 ---
-title: "[]{#_blxmqlyvngo6 .anchor}Design Pen"
+title: "Design Pen"
 ---
 
 # Overview
